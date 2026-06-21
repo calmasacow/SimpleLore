@@ -1,3 +1,5 @@
+![SimpleLore](docs/Banner.jpg)
+
 # SimpleLore — Lore Quick Commit
 
 An Unreal Engine **editor plugin** that adds a small **Lore** section to the Level Editor
