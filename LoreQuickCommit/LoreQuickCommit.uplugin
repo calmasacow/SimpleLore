@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"FriendlyName": "Lore Quick Commit",
+	"Description": "Adds a 'Lore' section to the Level Editor toolbar for quick status, commit and sync against a Lore version-control server.",
+	"Category": "Version Control",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "https://epicgames.github.io/lore",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "LoreQuickCommit",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	]
+}

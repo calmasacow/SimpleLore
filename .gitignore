@@ -1,0 +1,18 @@
+# Unreal Engine build output — regenerated locally, never committed
+Binaries/
+Intermediate/
+Build/
+DerivedDataCache/
+Saved/
+
+# IDE / editor metadata
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.user
+
+# OS cruft
+.DS_Store
+Thumbs.db
